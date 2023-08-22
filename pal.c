@@ -1,6 +1,7 @@
 #include<stdio.h>
 main ()
 {
+    //hi i'm adding a comment
     int i,j,x=10,n,r,k,f1,f2,f3;
     printf ("enter n \n");
     scanf ("%d",&n);
